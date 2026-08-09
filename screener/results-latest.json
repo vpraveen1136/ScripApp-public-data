@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-09T21:37:58+05:30",
+  "generatedAt": "2026-08-10T00:55:01+05:30",
   "generatedTimezone": "Asia/Kolkata",
   "discoveryWindowDays": 2,
   "pendingLookbackDays": 120,
   "maxEnrichPerRun": 60,
   "startDate": "2026-08-08",
-  "endDate": "2026-08-09",
+  "endDate": "2026-08-10",
   "entryCount": 2033,
   "entries": [
     {
