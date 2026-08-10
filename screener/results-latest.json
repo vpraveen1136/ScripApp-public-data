@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T08:32:47+05:30",
+  "generatedAt": "2026-08-10T10:44:49+05:30",
   "generatedTimezone": "Asia/Kolkata",
   "discoveryWindowDays": 2,
   "pendingLookbackDays": 120,
   "maxEnrichPerRun": 60,
   "startDate": "2026-08-08",
   "endDate": "2026-08-10",
-  "entryCount": 2033,
+  "entryCount": 2034,
   "entries": [
     {
       "symbol": "WINDMACHIN",
@@ -865,6 +865,32 @@
       "opmThreeQuarterAgo": "-715.60%",
       "opmFourQuarterAgo": "-302.94%",
       "opmFiveQuarterAgo": "-6,352.63%"
+    },
+    {
+      "symbol": "COMSYN",
+      "companyName": "Commerl. Synbags",
+      "companyURL": "https://www.screener.in/company/COMSYN/#quarters",
+      "sourceURL": "https://www.screener.in/company/source/quarter/1273430/6/2026/",
+      "resultDate": "2026-08-08",
+      "updateStatus": "UPDATED",
+      "metricsUpdatedAt": "2026-08-10T10:42:04+05:30",
+      "updateAttempts": 1,
+      "marketCapCrore": 1054.0,
+      "sector": null,
+      "broadSector": null,
+      "salesGrowth": "13.2",
+      "roe": "16.9",
+      "freeCashFlow": "12.1",
+      "epsCurrentQuarter": "2.40",
+      "epsTwoQuarterAgo": "1.76",
+      "epsThreeQuarterAgo": "1.56",
+      "epsFourQuarterAgo": "2.14",
+      "epsFiveQuarterAgo": "1.27",
+      "opmCurrentQuarter": "13.43%",
+      "opmTwoQuarterAgo": "11.24%",
+      "opmThreeQuarterAgo": "11.68%",
+      "opmFourQuarterAgo": "12.39%",
+      "opmFiveQuarterAgo": "11.34%"
     },
     {
       "symbol": "CELLO",
