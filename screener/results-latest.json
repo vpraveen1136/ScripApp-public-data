@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-12T10:53:32+05:30",
+  "generatedAt": "2026-08-12T13:39:09+05:30",
   "generatedTimezone": "Asia/Kolkata",
   "discoveryWindowDays": 2,
   "pendingLookbackDays": 120,
   "maxEnrichPerRun": 60,
   "startDate": "2026-08-11",
   "endDate": "2026-08-12",
-  "entryCount": 2391,
+  "entryCount": 2392,
   "entries": [
     {
       "symbol": "ZYDUSLIFE",
@@ -1879,6 +1879,32 @@
       "opmThreeQuarterAgo": "12%",
       "opmFourQuarterAgo": "12%",
       "opmFiveQuarterAgo": "14%"
+    },
+    {
+      "symbol": "GTECJAINX",
+      "companyName": "G-Tec Janix",
+      "companyURL": "https://www.screener.in/company/GTECJAINX/consolidated/#quarters",
+      "sourceURL": "https://www.screener.in/company/source/quarter/1274114/6/2026/",
+      "resultDate": "2026-08-11",
+      "updateStatus": "PENDING",
+      "metricsUpdatedAt": null,
+      "updateAttempts": 0,
+      "marketCapCrore": null,
+      "sector": null,
+      "broadSector": null,
+      "salesGrowth": null,
+      "roe": null,
+      "freeCashFlow": null,
+      "epsCurrentQuarter": null,
+      "epsTwoQuarterAgo": null,
+      "epsThreeQuarterAgo": null,
+      "epsFourQuarterAgo": null,
+      "epsFiveQuarterAgo": null,
+      "opmCurrentQuarter": null,
+      "opmTwoQuarterAgo": null,
+      "opmThreeQuarterAgo": null,
+      "opmFourQuarterAgo": null,
+      "opmFiveQuarterAgo": null
     },
     {
       "symbol": "GSPCROP",
